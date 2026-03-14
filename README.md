@@ -66,16 +66,33 @@ python -m venv .venv
 
 ---
 
-# Generate Synthetic Data
+## Data Generation
 
-Run the data generation pipeline:
+Synthetic datasets were generated to simulate a retail environment.
 
-```bash
-.venv\Scripts\python.exe pipeline/generate_data.py
-```
+A Python script is used to automatically generate realistic CSV datasets representing customers, products, and sales transactions.
 
-This generates:
+The generated datasets include:
 
-- data/customers.csv
-- data/products.csv
-- data/sales.csv
+- **customers.csv** → customer demographic information
+- **products.csv** → product catalog and categories
+- **sales.csv** → purchase transactions linking customers and products
+
+The datasets are generated using the **Faker** library to create realistic names and randomized attributes.
+
+## ETL Pipeline
+
+A Python ETL pipeline processes the generated datasets.
+
+The pipeline performs:
+
+- Data loading from CSV files
+- Data cleaning (removal of duplicates and missing values)
+- Data transformation through dataset joins
+- Metric generation for analytics
+
+Generated metrics include:
+
+- revenue by region
+- top selling products
+- category revenue

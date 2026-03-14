@@ -1,0 +1,84 @@
+{
+    "revenue_by_region": [
+        {
+            "region": "East",
+            "total_value": 227243.82
+        },
+        {
+            "region": "North",
+            "total_value": 213410.18
+        },
+        {
+            "region": "South",
+            "total_value": 166859.48
+        },
+        {
+            "region": "West",
+            "total_value": 168268.83
+        }
+    ],
+    "top_products": [
+        {
+            "name": "Chair",
+            "quantity": 122
+        },
+        {
+            "name": "Manager",
+            "quantity": 93
+        },
+        {
+            "name": "Thought",
+            "quantity": 90
+        },
+        {
+            "name": "Art",
+            "quantity": 88
+        },
+        {
+            "name": "Purpose",
+            "quantity": 86
+        },
+        {
+            "name": "Trade",
+            "quantity": 78
+        },
+        {
+            "name": "Wait",
+            "quantity": 77
+        },
+        {
+            "name": "Leg",
+            "quantity": 76
+        },
+        {
+            "name": "Character",
+            "quantity": 75
+        },
+        {
+            "name": "Indicate",
+            "quantity": 74
+        }
+    ],
+    "category_revenue": [
+        {
+            "category": "Books",
+            "total_value": 195988.44
+        },
+        {
+            "category": "Electronics",
+            "total_value": 166104.54
+        },
+        {
+            "category": "Fashion",
+            "total_value": 144137.94
+        },
+        {
+            "category": "Home",
+            "total_value": 109987.58
+        },
+        {
+            "category": "Sports",
+            "total_value": 159563.81
+        }
+    ]
+}
