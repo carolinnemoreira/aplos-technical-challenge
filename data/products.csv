@@ -1,51 +1,51 @@
 id,name,category,price,supplier
-1,Parent,Home,132.68,Supplier A
-2,Attack,Books,187.26,Supplier B
-3,Every,Sports,40.22,Supplier B
-4,Country,Home,202.24,Supplier D
-5,Man,Electronics,152.1,Supplier B
-6,Simple,Home,285.79,Supplier C
-7,Above,Books,271.73,Supplier D
-8,Different,Fashion,402.54,Supplier B
-9,Protect,Fashion,25.77,Supplier D
-10,Various,Books,301.15,Supplier D
-11,Allow,Sports,350.7,Supplier A
-12,More,Sports,248.81,Supplier D
-13,Half,Fashion,259.45,Supplier B
-14,Chair,Books,292.07,Supplier D
-15,Art,Electronics,225.39,Supplier B
-16,You,Books,457.13,Supplier A
-17,Dark,Sports,97.91,Supplier D
-18,Rate,Sports,131.63,Supplier C
-19,Too,Sports,124.75,Supplier C
-20,Factor,Books,295.43,Supplier A
-21,Forget,Electronics,300.64,Supplier D
-22,Hundred,Fashion,23.54,Supplier D
-23,Manager,Books,347.68,Supplier D
-24,Movement,Electronics,459.79,Supplier A
-25,Quite,Books,350.98,Supplier A
-26,Indicate,Home,282.88,Supplier C
-27,Ask,Home,265.27,Supplier A
-28,Leg,Electronics,322.16,Supplier C
-29,Share,Electronics,370.03,Supplier C
-30,Power,Fashion,482.8,Supplier D
-31,Wait,Electronics,92.53,Supplier B
-32,Purpose,Sports,468.73,Supplier D
-33,Board,Books,108.32,Supplier B
-34,Suggest,Home,34.23,Supplier A
-35,Guy,Books,34.82,Supplier A
-36,Reduce,Fashion,279.99,Supplier D
-37,Chair,Fashion,354.26,Supplier A
-38,Author,Fashion,272.21,Supplier A
-39,Character,Books,202.43,Supplier B
-40,Piece,Electronics,139.25,Supplier D
-41,Class,Sports,450.38,Supplier B
-42,Fill,Home,284.93,Supplier A
-43,Memory,Home,391.44,Supplier D
-44,Thought,Sports,394.53,Supplier A
-45,Tend,Fashion,337.35,Supplier B
-46,Them,Sports,205.25,Supplier C
-47,Draw,Books,140.74,Supplier D
-48,Trade,Electronics,491.32,Supplier A
-49,Energy,Books,235.81,Supplier A
-50,Hand,Fashion,370.17,Supplier B
+1,Jacket,Fashion,187.6,Supplier C
+2,Cookbook,Books,156.27,Supplier C
+3,Sofa,Home,288.84,Supplier A
+4,Gym Bag,Sports,175.35,Supplier B
+5,Football,Sports,368.75,Supplier C
+6,Tablet,Electronics,334.4,Supplier C
+7,Basketball,Sports,103.93,Supplier D
+8,Running Shoes,Sports,446.21,Supplier A
+9,Football,Sports,26.6,Supplier B
+10,Biography,Books,469.41,Supplier A
+11,Smartphone,Electronics,253.35,Supplier B
+12,T-Shirt,Fashion,336.67,Supplier C
+13,Sneakers,Fashion,358.98,Supplier B
+14,Sneakers,Fashion,175.67,Supplier D
+15,Headphones,Electronics,316.32,Supplier B
+16,Jeans,Fashion,166.29,Supplier D
+17,Jeans,Fashion,225.67,Supplier A
+18,Headphones,Electronics,260.26,Supplier A
+19,T-Shirt,Fashion,269.08,Supplier C
+20,Novel,Books,211.33,Supplier B
+21,Sweater,Fashion,427.4,Supplier C
+22,Football,Sports,153.26,Supplier C
+23,Basketball,Sports,28.91,Supplier B
+24,Basketball,Sports,459.91,Supplier A
+25,History Book,Books,385.31,Supplier B
+26,Bookshelf,Home,215.83,Supplier B
+27,Running Shoes,Sports,135.23,Supplier C
+28,Sweater,Fashion,403.78,Supplier C
+29,Running Shoes,Sports,298.48,Supplier D
+30,Football,Sports,125.12,Supplier A
+31,Monitor,Electronics,412.14,Supplier B
+32,Jeans,Fashion,220.16,Supplier D
+33,Gym Bag,Sports,445.75,Supplier C
+34,Lamp,Home,160.32,Supplier A
+35,Cookbook,Books,237.81,Supplier A
+36,Laptop,Electronics,116.87,Supplier C
+37,Cookbook,Books,128.35,Supplier D
+38,T-Shirt,Fashion,470.78,Supplier D
+39,History Book,Books,147.41,Supplier C
+40,History Book,Books,110.76,Supplier C
+41,Laptop,Electronics,294.45,Supplier B
+42,Laptop,Electronics,444.83,Supplier A
+43,Bookshelf,Home,350.12,Supplier C
+44,Novel,Books,279.34,Supplier A
+45,Tennis Racket,Sports,294.03,Supplier C
+46,Tennis Racket,Sports,464.52,Supplier A
+47,T-Shirt,Fashion,287.36,Supplier C
+48,T-Shirt,Fashion,129.45,Supplier D
+49,Sofa,Home,202.91,Supplier D
+50,Football,Sports,77.87,Supplier C

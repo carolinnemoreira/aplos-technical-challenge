@@ -31,16 +31,33 @@ def generate_customers() -> list[list[object]]:
 
 
 def generate_products() -> list[list[object]]:
-    return [
-        [
-            product_id,
-            fake.word().capitalize(),
-            random.choice(CATEGORIES),
-            round(random.uniform(5, 500), 2),
-            random.choice(SUPPLIERS),
-        ]
-        for product_id in range(1, NUM_PRODUCTS + 1)
-    ]
+
+    product_names = {
+        "Electronics": ["Smartphone", "Laptop", "Headphones", "Tablet", "Monitor"],
+        "Fashion": ["T-Shirt", "Jeans", "Jacket", "Sneakers", "Sweater"],
+        "Home": ["Chair", "Table", "Lamp", "Sofa", "Bookshelf"],
+        "Sports": ["Basketball", "Football", "Running Shoes", "Tennis Racket", "Gym Bag"],
+        "Books": ["Novel", "Cookbook", "Biography", "Science Book", "History Book"],
+    }
+
+    products = []
+
+    for product_id in range(1, NUM_PRODUCTS + 1):
+
+        category = random.choice(CATEGORIES)
+        name = random.choice(product_names[category])
+
+        products.append(
+            [
+                product_id,
+                name,
+                category,
+                round(random.uniform(5, 500), 2),
+                random.choice(SUPPLIERS),
+            ]
+        )
+
+    return products
 
 
 def generate_sales() -> list[list[object]]:

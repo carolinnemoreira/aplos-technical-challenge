@@ -8,7 +8,6 @@ The objective of this project is to model a retail data domain, generate synthet
 
 # Project Structure
 
-
 aplos-technical-challenge
 │
 ├── ontology → conceptual data model
@@ -16,7 +15,6 @@ aplos-technical-challenge
 ├── pipeline → Python ETL pipeline
 ├── backend → TypeScript API service
 ├── frontend → React analytics dashboard
-
 
 ---
 
@@ -44,7 +42,6 @@ This structure enables the generation of business metrics such as:
 
 The ontology diagram is available in:
 
-
 ontology/ontology.png
 
 ---
@@ -71,6 +68,7 @@ python -m venv .venv
 Synthetic datasets were generated to simulate a retail environment.
 
 A Python script is used to automatically generate realistic CSV datasets representing customers, products, and sales transactions.
+Product names are generated based on their category to create more realistic retail datasets.
 
 The generated datasets include:
 
@@ -79,6 +77,12 @@ The generated datasets include:
 - **sales.csv** → purchase transactions linking customers and products
 
 The datasets are generated using the **Faker** library to create realistic names and randomized attributes.
+
+Run data generation:
+
+```bash
+.venv\Scripts\python.exe pipeline/generate_data.py
+```
 
 ## ETL Pipeline
 
@@ -96,3 +100,54 @@ Generated metrics include:
 - revenue by region
 - top selling products
 - category revenue
+
+Run ETL:
+
+```bash
+.venv\Scripts\python.exe pipeline/etl.py
+```
+
+## API Service
+
+A TypeScript API exposes analytics endpoints for the frontend dashboard.
+
+Available endpoints:
+
+- `/api/revenue-by-region`
+- `/api/top-products`
+- `/api/category-revenue`
+
+Run the API:
+
+```bash
+cd backend
+npx ts-node src/server.ts
+```
+
+---
+
+## Setup (Node/TypeScript Backend)
+
+In this project, dependency management is split by stack:
+
+- Python dependencies are in `requirements.txt`
+- Node/TypeScript dependencies are in `backend/package.json`
+
+Install backend dependencies:
+
+```bash
+cd backend
+npm install
+```
+
+Run backend in development mode:
+
+```bash
+npm run dev
+```
+
+Optional type-check:
+
+```bash
+npm run typecheck
+```

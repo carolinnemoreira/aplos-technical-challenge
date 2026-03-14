@@ -1,2 +1,4 @@
+# Python dependencies only.
+# Node/TypeScript dependencies are managed in backend/package.json via npm.
 faker==40.11.0
 pandas==3.0.1

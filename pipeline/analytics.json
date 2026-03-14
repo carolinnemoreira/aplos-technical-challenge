@@ -2,83 +2,83 @@
     "revenue_by_region": [
         {
             "region": "East",
-            "total_value": 227243.82
+            "total_value": 185480.79
         },
         {
             "region": "North",
-            "total_value": 213410.18
+            "total_value": 204998.02
         },
         {
             "region": "South",
-            "total_value": 166859.48
+            "total_value": 192838.28
         },
         {
             "region": "West",
-            "total_value": 168268.83
+            "total_value": 168174.99
         }
     ],
     "top_products": [
         {
-            "name": "Chair",
-            "quantity": 122
+            "name": "Football",
+            "quantity": 317
         },
         {
-            "name": "Manager",
-            "quantity": 93
+            "name": "Running Shoes",
+            "quantity": 245
         },
         {
-            "name": "Thought",
-            "quantity": 90
+            "name": "T-Shirt",
+            "quantity": 237
         },
         {
-            "name": "Art",
-            "quantity": 88
+            "name": "Basketball",
+            "quantity": 214
         },
         {
-            "name": "Purpose",
-            "quantity": 86
+            "name": "Laptop",
+            "quantity": 194
         },
         {
-            "name": "Trade",
-            "quantity": 78
+            "name": "Jeans",
+            "quantity": 191
         },
         {
-            "name": "Wait",
-            "quantity": 77
+            "name": "Cookbook",
+            "quantity": 181
         },
         {
-            "name": "Leg",
-            "quantity": 76
+            "name": "History Book",
+            "quantity": 159
         },
         {
-            "name": "Character",
-            "quantity": 75
+            "name": "Sneakers",
+            "quantity": 144
         },
         {
-            "name": "Indicate",
-            "quantity": 74
+            "name": "Tennis Racket",
+            "quantity": 120
         }
     ],
     "category_revenue": [
         {
             "category": "Books",
-            "total_value": 195988.44
+            "total_value": 110084.13
         },
         {
             "category": "Electronics",
-            "total_value": 166104.54
+            "total_value": 145261.22
         },
         {
             "category": "Fashion",
-            "total_value": 144137.94
+            "total_value": 200483.04
         },
         {
             "category": "Home",
-            "total_value": 109987.58
+            "total_value": 60749.46
         },
         {
             "category": "Sports",
-            "total_value": 159563.81
+            "total_value": 234914.23
         }
     ]
 }
