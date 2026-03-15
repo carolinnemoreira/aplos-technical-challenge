@@ -92,14 +92,17 @@ The pipeline performs:
 
 - Data loading from CSV files
 - Data cleaning (removal of duplicates and missing values)
+- Outlier handling using the IQR method (for quantity and price)
 - Data transformation through dataset joins
 - Metric generation for analytics
 
 Generated metrics include:
 
 - revenue by region
-- top selling products
+- top-selling products
 - category revenue
+- revenue by region + category + age band
+- top-selling products by region + age band
 
 Run ETL:
 
@@ -115,7 +118,12 @@ Available endpoints:
 
 - `/api/revenue-by-region`
 - `/api/top-products`
+- `/api/top-products-by-category`
 - `/api/category-revenue`
+- `/api/revenue-by-region-category`
+- `/api/revenue-by-region-category-age-band`
+- `/api/top-products-by-region`
+- `/api/top-products-by-region-age-band`
 
 Run the API:
 
@@ -151,3 +159,39 @@ Optional type-check:
 ```bash
 npm run typecheck
 ```
+
+## Frontend Interface
+
+The dashboard contains two visualizations and supports exploration through combined filters:
+
+- Revenue by region chart
+- Top-selling products chart
+- **Revenue by Region**: Category filter + Age-range filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
+- **Top-Selling Products**: Region filter + Age-range filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
+- Top products chart shows the **top 10 items** for the selected filter combination
+
+## Business Insights
+
+Based on the processed dataset, the following business insights were identified:
+
+### 1. Sports and Fashion Concentrate Most of the Revenue
+
+The **Sports** category generated the largest revenue (**$234,914**, **31.26%** of total revenue), followed by **Fashion** (**$200,483**, **26.68%**). Together, these two categories represent **57.94%** of all revenue, indicating that inventory availability and campaign investment should prioritize these segments.
+
+### 2. Regional Revenue Shows a Clear Performance Gap
+
+The **North** region leads total revenue with **$204,998** (**27.28%**), while the **West** region is lowest with **$168,175** (**22.38%**). This creates a gap of **$36,823** (about **21.9%** above the West baseline), suggesting targeted regional actions are needed to unlock growth in lower-performing geographies.
+
+### 3. Product Volume Is Concentrated in a Small Set of SKUs
+
+A small group of products drives a significant share of sold units. The top three products (**Football: 317**, **Running Shoes: 245**, **T-Shirt: 237**) total **799 units**, which is **39.91%** of all units inside the top-10 ranking. This indicates operational dependence on a few high-demand SKUs and the need for safety stock policies.
+
+### 4. Age Segmentation Reveals Distinct Category Preferences
+
+By age band, **Sports** is the top revenue category for **18–25**, **26–35**, **36–45**, and **46–60**. In contrast, for **60+**, the top category shifts to **Fashion** (**34.36%** of revenue in that age band). This supports differentiated segmentation strategy: sports-oriented offers for younger/mid-age groups and fashion-focused offers for senior customers.
+
+### 5. South Region Over-Indexes in Electronics and Leads in Fashion
+
+In the **South** region, **Electronics** accounts for **21.24%** of regional revenue, above the national electronics share (**19.33%**), a relative uplift of **9.9%**. At the same time, **Fashion** is the top category in South (**30.11%** of the region's revenue). This suggests regional assortment and campaigns should emphasize both Fashion and Electronics for stronger conversion.
+
+These insights demonstrate how combining transactional data with product and customer attributes can support strategic decisions in pricing, inventory planning, and marketing.

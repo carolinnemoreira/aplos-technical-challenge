@@ -17,6 +17,710 @@
             "total_value": 168174.99
         }
     ],
+    "revenue_by_region_category": [
+        {
+            "region": "East",
+            "category": "Books",
+            "total_value": 25866.72
+        },
+        {
+            "region": "East",
+            "category": "Electronics",
+            "total_value": 39237.49
+        },
+        {
+            "region": "East",
+            "category": "Fashion",
+            "total_value": 49026.67
+        },
+        {
+            "region": "East",
+            "category": "Home",
+            "total_value": 11639.91
+        },
+        {
+            "region": "East",
+            "category": "Sports",
+            "total_value": 59710.0
+        },
+        {
+            "region": "North",
+            "category": "Books",
+            "total_value": 26338.15
+        },
+        {
+            "region": "North",
+            "category": "Electronics",
+            "total_value": 32290.96
+        },
+        {
+            "region": "North",
+            "category": "Fashion",
+            "total_value": 53264.509999999995
+        },
+        {
+            "region": "North",
+            "category": "Home",
+            "total_value": 21408.399999999998
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "total_value": 71696.0
+        },
+        {
+            "region": "South",
+            "category": "Books",
+            "total_value": 30837.190000000002
+        },
+        {
+            "region": "South",
+            "category": "Electronics",
+            "total_value": 40966.88
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "total_value": 58060.03
+        },
+        {
+            "region": "South",
+            "category": "Home",
+            "total_value": 16027.82
+        },
+        {
+            "region": "South",
+            "category": "Sports",
+            "total_value": 46946.36
+        },
+        {
+            "region": "West",
+            "category": "Books",
+            "total_value": 27042.07
+        },
+        {
+            "region": "West",
+            "category": "Electronics",
+            "total_value": 32765.89
+        },
+        {
+            "region": "West",
+            "category": "Fashion",
+            "total_value": 40131.83
+        },
+        {
+            "region": "West",
+            "category": "Home",
+            "total_value": 11673.33
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "total_value": 56561.87
+        }
+    ],
+    "revenue_by_region_category_age_band": [
+        {
+            "region": "East",
+            "category": "Books",
+            "age_band": "18\u201325",
+            "total_value": 5801.0
+        },
+        {
+            "region": "East",
+            "category": "Books",
+            "age_band": "26\u201335",
+            "total_value": 6950.150000000001
+        },
+        {
+            "region": "East",
+            "category": "Books",
+            "age_band": "36\u201345",
+            "total_value": 3516.4300000000003
+        },
+        {
+            "region": "East",
+            "category": "Books",
+            "age_band": "46\u201360",
+            "total_value": 5684.55
+        },
+        {
+            "region": "East",
+            "category": "Books",
+            "age_band": "60+",
+            "total_value": 3914.5899999999997
+        },
+        {
+            "region": "East",
+            "category": "Electronics",
+            "age_band": "18\u201325",
+            "total_value": 7685.379999999999
+        },
+        {
+            "region": "East",
+            "category": "Electronics",
+            "age_band": "26\u201335",
+            "total_value": 9431.3
+        },
+        {
+            "region": "East",
+            "category": "Electronics",
+            "age_band": "36\u201345",
+            "total_value": 7487.17
+        },
+        {
+            "region": "East",
+            "category": "Electronics",
+            "age_band": "46\u201360",
+            "total_value": 6590.719999999999
+        },
+        {
+            "region": "East",
+            "category": "Electronics",
+            "age_band": "60+",
+            "total_value": 8042.92
+        },
+        {
+            "region": "East",
+            "category": "Fashion",
+            "age_band": "18\u201325",
+            "total_value": 9303.91
+        },
+        {
+            "region": "East",
+            "category": "Fashion",
+            "age_band": "26\u201335",
+            "total_value": 6670.21
+        },
+        {
+            "region": "East",
+            "category": "Fashion",
+            "age_band": "36\u201345",
+            "total_value": 6748.97
+        },
+        {
+            "region": "East",
+            "category": "Fashion",
+            "age_band": "46\u201360",
+            "total_value": 8954.63
+        },
+        {
+            "region": "East",
+            "category": "Fashion",
+            "age_band": "60+",
+            "total_value": 17348.95
+        },
+        {
+            "region": "East",
+            "category": "Home",
+            "age_band": "18\u201325",
+            "total_value": 320.64
+        },
+        {
+            "region": "East",
+            "category": "Home",
+            "age_band": "26\u201335",
+            "total_value": 2964.7999999999997
+        },
+        {
+            "region": "East",
+            "category": "Home",
+            "age_band": "36\u201345",
+            "total_value": 811.64
+        },
+        {
+            "region": "East",
+            "category": "Home",
+            "age_band": "46\u201360",
+            "total_value": 5134.199999999999
+        },
+        {
+            "region": "East",
+            "category": "Home",
+            "age_band": "60+",
+            "total_value": 2408.63
+        },
+        {
+            "region": "East",
+            "category": "Sports",
+            "age_band": "18\u201325",
+            "total_value": 12591.24
+        },
+        {
+            "region": "East",
+            "category": "Sports",
+            "age_band": "26\u201335",
+            "total_value": 13496.74
+        },
+        {
+            "region": "East",
+            "category": "Sports",
+            "age_band": "36\u201345",
+            "total_value": 14355.29
+        },
+        {
+            "region": "East",
+            "category": "Sports",
+            "age_band": "46\u201360",
+            "total_value": 12540.31
+        },
+        {
+            "region": "East",
+            "category": "Sports",
+            "age_band": "60+",
+            "total_value": 6726.42
+        },
+        {
+            "region": "North",
+            "category": "Books",
+            "age_band": "18\u201325",
+            "total_value": 5227.31
+        },
+        {
+            "region": "North",
+            "category": "Books",
+            "age_band": "26\u201335",
+            "total_value": 3516.27
+        },
+        {
+            "region": "North",
+            "category": "Books",
+            "age_band": "36\u201345",
+            "total_value": 2475.83
+        },
+        {
+            "region": "North",
+            "category": "Books",
+            "age_band": "46\u201360",
+            "total_value": 5592.13
+        },
+        {
+            "region": "North",
+            "category": "Books",
+            "age_band": "60+",
+            "total_value": 9526.61
+        },
+        {
+            "region": "North",
+            "category": "Electronics",
+            "age_band": "18\u201325",
+            "total_value": 1988.32
+        },
+        {
+            "region": "North",
+            "category": "Electronics",
+            "age_band": "26\u201335",
+            "total_value": 2273.75
+        },
+        {
+            "region": "North",
+            "category": "Electronics",
+            "age_band": "36\u201345",
+            "total_value": 4372.51
+        },
+        {
+            "region": "North",
+            "category": "Electronics",
+            "age_band": "46\u201360",
+            "total_value": 12779.95
+        },
+        {
+            "region": "North",
+            "category": "Electronics",
+            "age_band": "60+",
+            "total_value": 10876.43
+        },
+        {
+            "region": "North",
+            "category": "Fashion",
+            "age_band": "18\u201325",
+            "total_value": 9679.679999999998
+        },
+        {
+            "region": "North",
+            "category": "Fashion",
+            "age_band": "26\u201335",
+            "total_value": 6837.849999999999
+        },
+        {
+            "region": "North",
+            "category": "Fashion",
+            "age_band": "36\u201345",
+            "total_value": 2897.63
+        },
+        {
+            "region": "North",
+            "category": "Fashion",
+            "age_band": "46\u201360",
+            "total_value": 18041.49
+        },
+        {
+            "region": "North",
+            "category": "Fashion",
+            "age_band": "60+",
+            "total_value": 15807.859999999999
+        },
+        {
+            "region": "North",
+            "category": "Home",
+            "age_band": "18\u201325",
+            "total_value": 1623.28
+        },
+        {
+            "region": "North",
+            "category": "Home",
+            "age_band": "26\u201335",
+            "total_value": 4141.17
+        },
+        {
+            "region": "North",
+            "category": "Home",
+            "age_band": "36\u201345",
+            "total_value": 6009.56
+        },
+        {
+            "region": "North",
+            "category": "Home",
+            "age_band": "46\u201360",
+            "total_value": 5145.36
+        },
+        {
+            "region": "North",
+            "category": "Home",
+            "age_band": "60+",
+            "total_value": 4489.03
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "age_band": "18\u201325",
+            "total_value": 11501.63
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "age_band": "26\u201335",
+            "total_value": 8975.75
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "age_band": "36\u201345",
+            "total_value": 8421.91
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "age_band": "46\u201360",
+            "total_value": 26226.79
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "age_band": "60+",
+            "total_value": 16569.92
+        },
+        {
+            "region": "South",
+            "category": "Books",
+            "age_band": "18\u201325",
+            "total_value": 4926.55
+        },
+        {
+            "region": "South",
+            "category": "Books",
+            "age_band": "26\u201335",
+            "total_value": 2036.0199999999998
+        },
+        {
+            "region": "South",
+            "category": "Books",
+            "age_band": "36\u201345",
+            "total_value": 3221.76
+        },
+        {
+            "region": "South",
+            "category": "Books",
+            "age_band": "46\u201360",
+            "total_value": 12506.83
+        },
+        {
+            "region": "South",
+            "category": "Books",
+            "age_band": "60+",
+            "total_value": 8146.030000000001
+        },
+        {
+            "region": "South",
+            "category": "Electronics",
+            "age_band": "18\u201325",
+            "total_value": 4572.48
+        },
+        {
+            "region": "South",
+            "category": "Electronics",
+            "age_band": "26\u201335",
+            "total_value": 7171.54
+        },
+        {
+            "region": "South",
+            "category": "Electronics",
+            "age_band": "36\u201345",
+            "total_value": 8545.67
+        },
+        {
+            "region": "South",
+            "category": "Electronics",
+            "age_band": "46\u201360",
+            "total_value": 12400.47
+        },
+        {
+            "region": "South",
+            "category": "Electronics",
+            "age_band": "60+",
+            "total_value": 8276.72
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "age_band": "18\u201325",
+            "total_value": 6865.77
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "age_band": "26\u201335",
+            "total_value": 7794.3099999999995
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "age_band": "36\u201345",
+            "total_value": 3558.2799999999997
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "age_band": "46\u201360",
+            "total_value": 24082.69
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "age_band": "60+",
+            "total_value": 15758.98
+        },
+        {
+            "region": "South",
+            "category": "Home",
+            "age_band": "18\u201325",
+            "total_value": 700.24
+        },
+        {
+            "region": "South",
+            "category": "Home",
+            "age_band": "26\u201335",
+            "total_value": 1807.4299999999998
+        },
+        {
+            "region": "South",
+            "category": "Home",
+            "age_band": "36\u201345",
+            "total_value": 2067.04
+        },
+        {
+            "region": "South",
+            "category": "Home",
+            "age_band": "46\u201360",
+            "total_value": 5855.139999999999
+        },
+        {
+            "region": "South",
+            "category": "Home",
+            "age_band": "60+",
+            "total_value": 5597.969999999999
+        },
+        {
+            "region": "South",
+            "category": "Sports",
+            "age_band": "18\u201325",
+            "total_value": 3873.39
+        },
+        {
+            "region": "South",
+            "category": "Sports",
+            "age_band": "26\u201335",
+            "total_value": 6330.64
+        },
+        {
+            "region": "South",
+            "category": "Sports",
+            "age_band": "36\u201345",
+            "total_value": 8788.35
+        },
+        {
+            "region": "South",
+            "category": "Sports",
+            "age_band": "46\u201360",
+            "total_value": 13746.11
+        },
+        {
+            "region": "South",
+            "category": "Sports",
+            "age_band": "60+",
+            "total_value": 14207.869999999999
+        },
+        {
+            "region": "West",
+            "category": "Books",
+            "age_band": "18\u201325",
+            "total_value": 3493.08
+        },
+        {
+            "region": "West",
+            "category": "Books",
+            "age_band": "26\u201335",
+            "total_value": 1876.26
+        },
+        {
+            "region": "West",
+            "category": "Books",
+            "age_band": "36\u201345",
+            "total_value": 5637.66
+        },
+        {
+            "region": "West",
+            "category": "Books",
+            "age_band": "46\u201360",
+            "total_value": 13582.24
+        },
+        {
+            "region": "West",
+            "category": "Books",
+            "age_band": "60+",
+            "total_value": 2452.83
+        },
+        {
+            "region": "West",
+            "category": "Electronics",
+            "age_band": "18\u201325",
+            "total_value": 1709.84
+        },
+        {
+            "region": "West",
+            "category": "Electronics",
+            "age_band": "26\u201335",
+            "total_value": 3219.3799999999997
+        },
+        {
+            "region": "West",
+            "category": "Electronics",
+            "age_band": "36\u201345",
+            "total_value": 10980.63
+        },
+        {
+            "region": "West",
+            "category": "Electronics",
+            "age_band": "46\u201360",
+            "total_value": 14856.869999999999
+        },
+        {
+            "region": "West",
+            "category": "Electronics",
+            "age_band": "60+",
+            "total_value": 1999.17
+        },
+        {
+            "region": "West",
+            "category": "Fashion",
+            "age_band": "18\u201325",
+            "total_value": 5226.139999999999
+        },
+        {
+            "region": "West",
+            "category": "Fashion",
+            "age_band": "26\u201335",
+            "total_value": 6999.31
+        },
+        {
+            "region": "West",
+            "category": "Fashion",
+            "age_band": "36\u201345",
+            "total_value": 8660.4
+        },
+        {
+            "region": "West",
+            "category": "Fashion",
+            "age_band": "46\u201360",
+            "total_value": 9908.6
+        },
+        {
+            "region": "West",
+            "category": "Fashion",
+            "age_band": "60+",
+            "total_value": 9337.38
+        },
+        {
+            "region": "West",
+            "category": "Home",
+            "age_band": "18\u201325",
+            "total_value": 3392.13
+        },
+        {
+            "region": "West",
+            "category": "Home",
+            "age_band": "26\u201335",
+            "total_value": 2202.08
+        },
+        {
+            "region": "West",
+            "category": "Home",
+            "age_band": "36\u201345",
+            "total_value": 1656.83
+        },
+        {
+            "region": "West",
+            "category": "Home",
+            "age_band": "46\u201360",
+            "total_value": 3074.56
+        },
+        {
+            "region": "West",
+            "category": "Home",
+            "age_band": "60+",
+            "total_value": 1347.73
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "age_band": "18\u201325",
+            "total_value": 9002.0
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "age_band": "26\u201335",
+            "total_value": 6978.8
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "age_band": "36\u201345",
+            "total_value": 15494.11
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "age_band": "46\u201360",
+            "total_value": 18381.85
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "age_band": "60+",
+            "total_value": 6705.11
+        }
+    ],
     "top_products": [
         {
             "name": "Football",
@@ -59,6 +763,2657 @@
             "quantity": 120
         }
     ],
+    "top_products_by_region": [
+        {
+            "region": "East",
+            "name": "Football",
+            "quantity": 107
+        },
+        {
+            "region": "East",
+            "name": "Basketball",
+            "quantity": 60
+        },
+        {
+            "region": "East",
+            "name": "Laptop",
+            "quantity": 53
+        },
+        {
+            "region": "East",
+            "name": "Running Shoes",
+            "quantity": 52
+        },
+        {
+            "region": "East",
+            "name": "Sneakers",
+            "quantity": 47
+        },
+        {
+            "region": "East",
+            "name": "History Book",
+            "quantity": 46
+        },
+        {
+            "region": "East",
+            "name": "Jeans",
+            "quantity": 41
+        },
+        {
+            "region": "East",
+            "name": "T-Shirt",
+            "quantity": 37
+        },
+        {
+            "region": "East",
+            "name": "Tennis Racket",
+            "quantity": 37
+        },
+        {
+            "region": "East",
+            "name": "Sofa",
+            "quantity": 34
+        },
+        {
+            "region": "East",
+            "name": "Cookbook",
+            "quantity": 33
+        },
+        {
+            "region": "East",
+            "name": "Sweater",
+            "quantity": 33
+        },
+        {
+            "region": "East",
+            "name": "Novel",
+            "quantity": 32
+        },
+        {
+            "region": "East",
+            "name": "Smartphone",
+            "quantity": 28
+        },
+        {
+            "region": "East",
+            "name": "Headphones",
+            "quantity": 25
+        },
+        {
+            "region": "East",
+            "name": "Monitor",
+            "quantity": 14
+        },
+        {
+            "region": "East",
+            "name": "Gym Bag",
+            "quantity": 13
+        },
+        {
+            "region": "East",
+            "name": "Tablet",
+            "quantity": 12
+        },
+        {
+            "region": "East",
+            "name": "Jacket",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "name": "Lamp",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "name": "Biography",
+            "quantity": 6
+        },
+        {
+            "region": "East",
+            "name": "Bookshelf",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "name": "Football",
+            "quantity": 88
+        },
+        {
+            "region": "North",
+            "name": "Running Shoes",
+            "quantity": 79
+        },
+        {
+            "region": "North",
+            "name": "T-Shirt",
+            "quantity": 73
+        },
+        {
+            "region": "North",
+            "name": "Jeans",
+            "quantity": 64
+        },
+        {
+            "region": "North",
+            "name": "Basketball",
+            "quantity": 51
+        },
+        {
+            "region": "North",
+            "name": "Cookbook",
+            "quantity": 48
+        },
+        {
+            "region": "North",
+            "name": "Tennis Racket",
+            "quantity": 48
+        },
+        {
+            "region": "North",
+            "name": "Laptop",
+            "quantity": 46
+        },
+        {
+            "region": "North",
+            "name": "History Book",
+            "quantity": 41
+        },
+        {
+            "region": "North",
+            "name": "Bookshelf",
+            "quantity": 40
+        },
+        {
+            "region": "North",
+            "name": "Gym Bag",
+            "quantity": 36
+        },
+        {
+            "region": "North",
+            "name": "Headphones",
+            "quantity": 34
+        },
+        {
+            "region": "North",
+            "name": "Sneakers",
+            "quantity": 31
+        },
+        {
+            "region": "North",
+            "name": "Sofa",
+            "quantity": 30
+        },
+        {
+            "region": "North",
+            "name": "Lamp",
+            "quantity": 19
+        },
+        {
+            "region": "North",
+            "name": "Biography",
+            "quantity": 17
+        },
+        {
+            "region": "North",
+            "name": "Jacket",
+            "quantity": 16
+        },
+        {
+            "region": "North",
+            "name": "Sweater",
+            "quantity": 16
+        },
+        {
+            "region": "North",
+            "name": "Tablet",
+            "quantity": 15
+        },
+        {
+            "region": "North",
+            "name": "Novel",
+            "quantity": 10
+        },
+        {
+            "region": "North",
+            "name": "Smartphone",
+            "quantity": 10
+        },
+        {
+            "region": "South",
+            "name": "T-Shirt",
+            "quantity": 77
+        },
+        {
+            "region": "South",
+            "name": "Running Shoes",
+            "quantity": 63
+        },
+        {
+            "region": "South",
+            "name": "Jeans",
+            "quantity": 61
+        },
+        {
+            "region": "South",
+            "name": "Cookbook",
+            "quantity": 57
+        },
+        {
+            "region": "South",
+            "name": "Laptop",
+            "quantity": 54
+        },
+        {
+            "region": "South",
+            "name": "Football",
+            "quantity": 51
+        },
+        {
+            "region": "South",
+            "name": "Basketball",
+            "quantity": 43
+        },
+        {
+            "region": "South",
+            "name": "Sneakers",
+            "quantity": 40
+        },
+        {
+            "region": "South",
+            "name": "Headphones",
+            "quantity": 32
+        },
+        {
+            "region": "South",
+            "name": "Smartphone",
+            "quantity": 30
+        },
+        {
+            "region": "South",
+            "name": "Novel",
+            "quantity": 26
+        },
+        {
+            "region": "South",
+            "name": "Sweater",
+            "quantity": 26
+        },
+        {
+            "region": "South",
+            "name": "Bookshelf",
+            "quantity": 25
+        },
+        {
+            "region": "South",
+            "name": "Gym Bag",
+            "quantity": 25
+        },
+        {
+            "region": "South",
+            "name": "Sofa",
+            "quantity": 23
+        },
+        {
+            "region": "South",
+            "name": "History Book",
+            "quantity": 22
+        },
+        {
+            "region": "South",
+            "name": "Biography",
+            "quantity": 19
+        },
+        {
+            "region": "South",
+            "name": "Tennis Racket",
+            "quantity": 17
+        },
+        {
+            "region": "South",
+            "name": "Lamp",
+            "quantity": 16
+        },
+        {
+            "region": "South",
+            "name": "Monitor",
+            "quantity": 14
+        },
+        {
+            "region": "South",
+            "name": "Tablet",
+            "quantity": 11
+        },
+        {
+            "region": "South",
+            "name": "Jacket",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "name": "Football",
+            "quantity": 71
+        },
+        {
+            "region": "West",
+            "name": "Basketball",
+            "quantity": 60
+        },
+        {
+            "region": "West",
+            "name": "Running Shoes",
+            "quantity": 51
+        },
+        {
+            "region": "West",
+            "name": "History Book",
+            "quantity": 50
+        },
+        {
+            "region": "West",
+            "name": "T-Shirt",
+            "quantity": 50
+        },
+        {
+            "region": "West",
+            "name": "Cookbook",
+            "quantity": 43
+        },
+        {
+            "region": "West",
+            "name": "Laptop",
+            "quantity": 41
+        },
+        {
+            "region": "West",
+            "name": "Gym Bag",
+            "quantity": 32
+        },
+        {
+            "region": "West",
+            "name": "Sneakers",
+            "quantity": 26
+        },
+        {
+            "region": "West",
+            "name": "Jeans",
+            "quantity": 25
+        },
+        {
+            "region": "West",
+            "name": "Sweater",
+            "quantity": 25
+        },
+        {
+            "region": "West",
+            "name": "Monitor",
+            "quantity": 21
+        },
+        {
+            "region": "West",
+            "name": "Bookshelf",
+            "quantity": 19
+        },
+        {
+            "region": "West",
+            "name": "Headphones",
+            "quantity": 18
+        },
+        {
+            "region": "West",
+            "name": "Tennis Racket",
+            "quantity": 18
+        },
+        {
+            "region": "West",
+            "name": "Sofa",
+            "quantity": 17
+        },
+        {
+            "region": "West",
+            "name": "Biography",
+            "quantity": 16
+        },
+        {
+            "region": "West",
+            "name": "Jacket",
+            "quantity": 15
+        },
+        {
+            "region": "West",
+            "name": "Tablet",
+            "quantity": 14
+        },
+        {
+            "region": "West",
+            "name": "Lamp",
+            "quantity": 9
+        },
+        {
+            "region": "West",
+            "name": "Novel",
+            "quantity": 8
+        },
+        {
+            "region": "West",
+            "name": "Smartphone",
+            "quantity": 8
+        }
+    ],
+    "top_products_by_region_age_band": [
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Football",
+            "quantity": 21
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Basketball",
+            "quantity": 11
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Cookbook",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "History Book",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Novel",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "T-Shirt",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Jeans",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Sweater",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Laptop",
+            "quantity": 6
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Monitor",
+            "quantity": 6
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Tennis Racket",
+            "quantity": 6
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Running Shoes",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Gym Bag",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Jacket",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Smartphone",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Tablet",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Headphones",
+            "quantity": 2
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Lamp",
+            "quantity": 2
+        },
+        {
+            "region": "East",
+            "age_band": "18\u201325",
+            "name": "Biography",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Tennis Racket",
+            "quantity": 22
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Smartphone",
+            "quantity": 19
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Laptop",
+            "quantity": 13
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Basketball",
+            "quantity": 11
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Novel",
+            "quantity": 11
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Sofa",
+            "quantity": 10
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Football",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "History Book",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Running Shoes",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "T-Shirt",
+            "quantity": 7
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Biography",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Sneakers",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Sweater",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Headphones",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Bookshelf",
+            "quantity": 2
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Cookbook",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Jacket",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Jeans",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Lamp",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Monitor",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "26\u201335",
+            "name": "Tablet",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Football",
+            "quantity": 22
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Sneakers",
+            "quantity": 18
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Basketball",
+            "quantity": 16
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Running Shoes",
+            "quantity": 16
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Headphones",
+            "quantity": 10
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "History Book",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Laptop",
+            "quantity": 6
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Smartphone",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Jeans",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Sofa",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Tennis Racket",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Monitor",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Novel",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "T-Shirt",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Sweater",
+            "quantity": 2
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Cookbook",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "36\u201345",
+            "name": "Tablet",
+            "quantity": 1
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Football",
+            "quantity": 29
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Basketball",
+            "quantity": 20
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "History Book",
+            "quantity": 16
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Sofa",
+            "quantity": 15
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Cookbook",
+            "quantity": 14
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Running Shoes",
+            "quantity": 14
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Laptop",
+            "quantity": 10
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Sneakers",
+            "quantity": 10
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Gym Bag",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Jeans",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Sweater",
+            "quantity": 6
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Headphones",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Lamp",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Tennis Racket",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Jacket",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Monitor",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "T-Shirt",
+            "quantity": 4
+        },
+        {
+            "region": "East",
+            "age_band": "46\u201360",
+            "name": "Tablet",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Football",
+            "quantity": 26
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Jeans",
+            "quantity": 20
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Laptop",
+            "quantity": 18
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Sneakers",
+            "quantity": 14
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "T-Shirt",
+            "quantity": 14
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Sweater",
+            "quantity": 13
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Novel",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Running Shoes",
+            "quantity": 9
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Cookbook",
+            "quantity": 8
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Headphones",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Sofa",
+            "quantity": 5
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Bookshelf",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "History Book",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Tablet",
+            "quantity": 3
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Basketball",
+            "quantity": 2
+        },
+        {
+            "region": "East",
+            "age_band": "60+",
+            "name": "Gym Bag",
+            "quantity": 1
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Running Shoes",
+            "quantity": 23
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Jeans",
+            "quantity": 14
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "T-Shirt",
+            "quantity": 10
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Cookbook",
+            "quantity": 9
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Sofa",
+            "quantity": 8
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "History Book",
+            "quantity": 7
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Football",
+            "quantity": 6
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Sneakers",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Sweater",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Tablet",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Biography",
+            "quantity": 4
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Tennis Racket",
+            "quantity": 4
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Basketball",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Gym Bag",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Headphones",
+            "quantity": 1
+        },
+        {
+            "region": "North",
+            "age_band": "18\u201325",
+            "name": "Novel",
+            "quantity": 1
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Football",
+            "quantity": 24
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "T-Shirt",
+            "quantity": 13
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Gym Bag",
+            "quantity": 11
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "History Book",
+            "quantity": 9
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Lamp",
+            "quantity": 9
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Sofa",
+            "quantity": 9
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Basketball",
+            "quantity": 8
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Tennis Racket",
+            "quantity": 8
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Laptop",
+            "quantity": 7
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Running Shoes",
+            "quantity": 6
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Cookbook",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Jacket",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Jeans",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Biography",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Headphones",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Sneakers",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Bookshelf",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "26\u201335",
+            "name": "Smartphone",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Bookshelf",
+            "quantity": 14
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Basketball",
+            "quantity": 12
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Cookbook",
+            "quantity": 7
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Laptop",
+            "quantity": 7
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "History Book",
+            "quantity": 6
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Jeans",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Sofa",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Tennis Racket",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Gym Bag",
+            "quantity": 4
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Headphones",
+            "quantity": 4
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Lamp",
+            "quantity": 4
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Jacket",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Running Shoes",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "T-Shirt",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Tablet",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Football",
+            "quantity": 1
+        },
+        {
+            "region": "North",
+            "age_band": "36\u201345",
+            "name": "Sweater",
+            "quantity": 1
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Football",
+            "quantity": 35
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Running Shoes",
+            "quantity": 31
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "T-Shirt",
+            "quantity": 26
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Tennis Racket",
+            "quantity": 21
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Sneakers",
+            "quantity": 17
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Basketball",
+            "quantity": 16
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Cookbook",
+            "quantity": 16
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Headphones",
+            "quantity": 15
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Laptop",
+            "quantity": 15
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Bookshelf",
+            "quantity": 13
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Jeans",
+            "quantity": 12
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Gym Bag",
+            "quantity": 10
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Tablet",
+            "quantity": 8
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Jacket",
+            "quantity": 6
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Sweater",
+            "quantity": 6
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Biography",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Lamp",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Sofa",
+            "quantity": 3
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "History Book",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "46\u201360",
+            "name": "Novel",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Jeans",
+            "quantity": 28
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Football",
+            "quantity": 22
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "T-Shirt",
+            "quantity": 21
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "History Book",
+            "quantity": 17
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Laptop",
+            "quantity": 17
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Running Shoes",
+            "quantity": 16
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Basketball",
+            "quantity": 13
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Bookshelf",
+            "quantity": 11
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Cookbook",
+            "quantity": 11
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Headphones",
+            "quantity": 11
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Tennis Racket",
+            "quantity": 10
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Gym Bag",
+            "quantity": 9
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Smartphone",
+            "quantity": 8
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Novel",
+            "quantity": 7
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Sneakers",
+            "quantity": 6
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Biography",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Sofa",
+            "quantity": 5
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Sweater",
+            "quantity": 4
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Jacket",
+            "quantity": 2
+        },
+        {
+            "region": "North",
+            "age_band": "60+",
+            "name": "Lamp",
+            "quantity": 1
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "T-Shirt",
+            "quantity": 16
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "History Book",
+            "quantity": 11
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Headphones",
+            "quantity": 9
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Football",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Jeans",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Laptop",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Running Shoes",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Biography",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Sneakers",
+            "quantity": 3
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Bookshelf",
+            "quantity": 2
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Gym Bag",
+            "quantity": 2
+        },
+        {
+            "region": "South",
+            "age_band": "18\u201325",
+            "name": "Smartphone",
+            "quantity": 1
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Running Shoes",
+            "quantity": 16
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "T-Shirt",
+            "quantity": 15
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Laptop",
+            "quantity": 12
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Jeans",
+            "quantity": 9
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Basketball",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Monitor",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Sofa",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Headphones",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "History Book",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Novel",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Sneakers",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Sweater",
+            "quantity": 3
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Cookbook",
+            "quantity": 2
+        },
+        {
+            "region": "South",
+            "age_band": "26\u201335",
+            "name": "Lamp",
+            "quantity": 1
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Running Shoes",
+            "quantity": 18
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Smartphone",
+            "quantity": 15
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Cookbook",
+            "quantity": 12
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Football",
+            "quantity": 12
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Headphones",
+            "quantity": 9
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "T-Shirt",
+            "quantity": 7
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Basketball",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Laptop",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Bookshelf",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Jeans",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Sneakers",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Sofa",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Biography",
+            "quantity": 2
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Gym Bag",
+            "quantity": 1
+        },
+        {
+            "region": "South",
+            "age_band": "36\u201345",
+            "name": "Monitor",
+            "quantity": 1
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Jeans",
+            "quantity": 28
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Cookbook",
+            "quantity": 26
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "T-Shirt",
+            "quantity": 22
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Football",
+            "quantity": 19
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Sweater",
+            "quantity": 18
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Basketball",
+            "quantity": 17
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Novel",
+            "quantity": 17
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Laptop",
+            "quantity": 16
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Running Shoes",
+            "quantity": 11
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Sneakers",
+            "quantity": 11
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Sofa",
+            "quantity": 11
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Gym Bag",
+            "quantity": 10
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Tennis Racket",
+            "quantity": 10
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Lamp",
+            "quantity": 9
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Biography",
+            "quantity": 7
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Smartphone",
+            "quantity": 7
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Bookshelf",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Headphones",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Jacket",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Monitor",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "Tablet",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "46\u201360",
+            "name": "History Book",
+            "quantity": 3
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Sneakers",
+            "quantity": 18
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Cookbook",
+            "quantity": 17
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "T-Shirt",
+            "quantity": 17
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Jeans",
+            "quantity": 15
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Laptop",
+            "quantity": 15
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Basketball",
+            "quantity": 14
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Bookshelf",
+            "quantity": 14
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Football",
+            "quantity": 14
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Running Shoes",
+            "quantity": 13
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Gym Bag",
+            "quantity": 12
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Smartphone",
+            "quantity": 7
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Tennis Racket",
+            "quantity": 7
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Biography",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Lamp",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Tablet",
+            "quantity": 6
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Novel",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Sweater",
+            "quantity": 5
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Headphones",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "History Book",
+            "quantity": 4
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Jacket",
+            "quantity": 2
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Monitor",
+            "quantity": 2
+        },
+        {
+            "region": "South",
+            "age_band": "60+",
+            "name": "Sofa",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Running Shoes",
+            "quantity": 15
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Sofa",
+            "quantity": 9
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Football",
+            "quantity": 8
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "History Book",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Sneakers",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Sweater",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Headphones",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Tennis Racket",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Biography",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Bookshelf",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "T-Shirt",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Basketball",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Gym Bag",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Tablet",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "18\u201325",
+            "name": "Novel",
+            "quantity": 1
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Football",
+            "quantity": 21
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Basketball",
+            "quantity": 14
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "T-Shirt",
+            "quantity": 13
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Monitor",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Jeans",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Lamp",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Bookshelf",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Gym Bag",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Biography",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Sneakers",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Sweater",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Cookbook",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Novel",
+            "quantity": 1
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Tablet",
+            "quantity": 1
+        },
+        {
+            "region": "West",
+            "age_band": "26\u201335",
+            "name": "Tennis Racket",
+            "quantity": 1
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Football",
+            "quantity": 27
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Basketball",
+            "quantity": 22
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Laptop",
+            "quantity": 20
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Cookbook",
+            "quantity": 17
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "History Book",
+            "quantity": 16
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Gym Bag",
+            "quantity": 12
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Sneakers",
+            "quantity": 11
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "T-Shirt",
+            "quantity": 11
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Jacket",
+            "quantity": 8
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Monitor",
+            "quantity": 8
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Jeans",
+            "quantity": 6
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Bookshelf",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Running Shoes",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Smartphone",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Tennis Racket",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Headphones",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Sweater",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "36\u201345",
+            "name": "Sofa",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "History Book",
+            "quantity": 27
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Running Shoes",
+            "quantity": 27
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Laptop",
+            "quantity": 18
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "T-Shirt",
+            "quantity": 16
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Basketball",
+            "quantity": 15
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Cookbook",
+            "quantity": 13
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Tablet",
+            "quantity": 11
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Biography",
+            "quantity": 10
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Headphones",
+            "quantity": 10
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Jeans",
+            "quantity": 9
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Football",
+            "quantity": 8
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Gym Bag",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Novel",
+            "quantity": 6
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Sneakers",
+            "quantity": 6
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Sofa",
+            "quantity": 6
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Sweater",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Tennis Racket",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Lamp",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Smartphone",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Bookshelf",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "46\u201360",
+            "name": "Monitor",
+            "quantity": 2
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Cookbook",
+            "quantity": 11
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Sweater",
+            "quantity": 9
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Basketball",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Football",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Gym Bag",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Jacket",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "T-Shirt",
+            "quantity": 7
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Bookshelf",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Jeans",
+            "quantity": 5
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Monitor",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Running Shoes",
+            "quantity": 4
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Laptop",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Tennis Racket",
+            "quantity": 3
+        },
+        {
+            "region": "West",
+            "age_band": "60+",
+            "name": "Sneakers",
+            "quantity": 1
+        }
+    ],
+    "top_products_by_category": [
+        {
+            "category": "Books",
+            "name": "Cookbook",
+            "quantity": 181
+        },
+        {
+            "category": "Books",
+            "name": "History Book",
+            "quantity": 159
+        },
+        {
+            "category": "Books",
+            "name": "Novel",
+            "quantity": 76
+        },
+        {
+            "category": "Books",
+            "name": "Biography",
+            "quantity": 58
+        },
+        {
+            "category": "Electronics",
+            "name": "Laptop",
+            "quantity": 194
+        },
+        {
+            "category": "Electronics",
+            "name": "Headphones",
+            "quantity": 109
+        },
+        {
+            "category": "Electronics",
+            "name": "Smartphone",
+            "quantity": 76
+        },
+        {
+            "category": "Electronics",
+            "name": "Tablet",
+            "quantity": 52
+        },
+        {
+            "category": "Electronics",
+            "name": "Monitor",
+            "quantity": 49
+        },
+        {
+            "category": "Fashion",
+            "name": "T-Shirt",
+            "quantity": 237
+        },
+        {
+            "category": "Fashion",
+            "name": "Jeans",
+            "quantity": 191
+        },
+        {
+            "category": "Fashion",
+            "name": "Sneakers",
+            "quantity": 144
+        },
+        {
+            "category": "Fashion",
+            "name": "Sweater",
+            "quantity": 100
+        },
+        {
+            "category": "Fashion",
+            "name": "Jacket",
+            "quantity": 47
+        },
+        {
+            "category": "Home",
+            "name": "Sofa",
+            "quantity": 104
+        },
+        {
+            "category": "Home",
+            "name": "Bookshelf",
+            "quantity": 89
+        },
+        {
+            "category": "Home",
+            "name": "Lamp",
+            "quantity": 52
+        },
+        {
+            "category": "Sports",
+            "name": "Football",
+            "quantity": 317
+        },
+        {
+            "category": "Sports",
+            "name": "Running Shoes",
+            "quantity": 245
+        },
+        {
+            "category": "Sports",
+            "name": "Basketball",
+            "quantity": 214
+        },
+        {
+            "category": "Sports",
+            "name": "Tennis Racket",
+            "quantity": 120
+        },
+        {
+            "category": "Sports",
+            "name": "Gym Bag",
+            "quantity": 106
+        }
+    ],
     "category_revenue": [
         {
             "category": "Books",
@@ -79,6 +3434,28 @@
         {
             "category": "Sports",
             "total_value": 234914.23
+        }
+    ],
+    "top_category_by_region": [
+        {
+            "region": "East",
+            "category": "Sports",
+            "quantity": 269
+        },
+        {
+            "region": "North",
+            "category": "Sports",
+            "quantity": 302
+        },
+        {
+            "region": "South",
+            "category": "Fashion",
+            "quantity": 211
+        },
+        {
+            "region": "West",
+            "category": "Sports",
+            "quantity": 232
         }
     ]
 }
