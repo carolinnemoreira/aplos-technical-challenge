@@ -2,23 +2,26 @@
 
 This repository contains the solution for the Aplos Software Engineering technical challenge.
 
-The objective of this project is to model a retail data domain, generate synthetic datasets, process the data through an ETL pipeline, expose analytics endpoints via a TypeScript service, and present insights through a React interface.
+This project implements a simplified retail analytics platform.  
+It models the data domain, generates synthetic datasets, processes the data through a Python ETL pipeline, exposes analytics endpoints via a TypeScript API, and presents insights through a React dashboard.
+
 
 ---
 
-# Project Structure
+## Project Structure
 
+```
 aplos-technical-challenge
 │
-├── ontology → conceptual data model
-├── data → generated CSV datasets
-├── pipeline → Python ETL pipeline
-├── backend → TypeScript API service
-├── frontend → React analytics dashboard
+├── ontology
+├── data
+├── pipeline
+├── backend
+└── frontend
+```
 
----
 
-# Ontology Model
+## Ontology Model
 
 The ontology models the core entities of a retail system, including customers, products, sales transactions, inventory, and product categories.
 
@@ -46,7 +49,7 @@ ontology/ontology.png
 
 ---
 
-# Setup (Python)
+## Setup (Python)
 
 From the repository root, install dependencies with the project virtual environment:
 
@@ -162,13 +165,31 @@ npm run typecheck
 
 ## Frontend Interface
 
-The dashboard contains two visualizations and supports exploration through combined filters:
+The dashboard contains two visualizations and supports exploration through combined filters.
+
+The React interface consumes the analytics API and allows interactive exploration of revenue and product performance through filtering by region, category, and customer age band.
+
+The dashboard includes:
 
 - Revenue by region chart
 - Top-selling products chart
-- **Revenue by Region**: Category filter + Age-range filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
-- **Top-Selling Products**: Region filter + Age-range filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
+
+Filters available:
+
+- **Revenue by Region**: Category filter + Age band filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
+- **Top-Selling Products**: Region filter + Age band filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
 - Top products chart shows the **top 10 items** for the selected filter combination
+
+## Architecture Overview
+
+The project follows a simple analytics architecture:
+
+1. Synthetic retail datasets are generated using Python and Faker.
+2. A Python ETL pipeline cleans, transforms, and aggregates the data.
+3. The processed analytics are exposed through a TypeScript API.
+4. A React dashboard consumes the API and visualizes the insights.
+
+This architecture demonstrates a full data flow from raw data generation to business insight visualization.
 
 ## Business Insights
 
