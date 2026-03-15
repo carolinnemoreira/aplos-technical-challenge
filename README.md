@@ -180,6 +180,24 @@ Filters available:
 - **Top-Selling Products**: Region filter + Age band filter (`18–25`, `26–35`, `36–45`, `46–60`, `60+`)
 - Top products chart shows the **top 10 items** for the selected filter combination
 
+## Setup (Frontend)
+
+Install frontend dependencies:
+
+```bash
+cd frontend
+npm install
+```
+
+Run frontend in development mode:
+
+```bash
+npm run dev
+```
+
+By default, Vite runs on `http://localhost:5173` and consumes the backend API at `http://localhost:3000`.
+Make sure the backend is running before testing dashboard data.
+
 ## Architecture Overview
 
 The project follows a simple analytics architecture:
